@@ -6,7 +6,7 @@ Dieses Repository enthält ausschließlich gebaute Windows-Installer und zugehö
 
 | Projekt | Version | Datei | Quellcode |
 | --- | --- | --- | --- |
-| Husky | 0.3.3 | `Husky-Setup-0.3.3.exe` | https://github.com/clausdenkinger/Husky |
+| Husky | 0.3.4 | `Husky-Setup-0.3.4.exe` | https://github.com/clausdenkinger/Husky |
 | Advanced Sidebar | 0.3.2 | `Advanced-Sidebar-Setup-0.3.2.exe` | https://github.com/clausdenkinger/AdvancedSidebar |
 
 ## Tile-Store-Testpakete
